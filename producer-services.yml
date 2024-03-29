@@ -1,3 +1,4 @@
 spring:
   application:
       name: producer-service
+message: producer configuration server is alive! 
